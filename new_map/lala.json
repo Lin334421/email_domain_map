@@ -1,0 +1,62 @@
+[
+  {
+    "table_name": "company_email_map",
+    "cluster_name": "replicated",
+    "database_name": "default",
+    "distributed_key": "halfMD5(email_domain)",
+    "table_engine": "ReplicatedReplacingMergeTree('/clickhouse/tables/{shard}/company_email_map','{replica}',updated_at)",
+    "partition_by": "",
+    "order_by": [
+      "email_domain"
+    ],
+    "parse_data": {
+      "email_domain": "",
+      "company": "",
+      "updated_at": 0
+    }
+  },
+  {
+    "table_name": "dir_label_new_test",
+    "cluster_name": "replicated",
+    "database_name": "default",
+    "distributed_key": "halfMD5(hexsha)",
+    "table_engine": "ReplicatedReplacingMergeTree('/clickhouse/tables/{shard}/_dir_label_new_test','{replica}',ck_data_insert_at)",
+    "partition_by": "search_key__owner",
+    "order_by": [
+      "search_key__owner",
+      "search_key__repo",
+      "hexsha",
+      "file_path",
+      "dir"
+    ],
+    "parse_data": {
+      "ck_data_insert_at":0,
+"search_key__owner":"",
+"search_key__repo":"",
+"hexsha":"",
+"author_tz":0,
+"author_name":"",
+"author_email":"",
+"author_email_domain":"",
+"authored_date":"1970-01-01T00:00:00Z",
+"committer_name":"",
+"committer_email":"",
+"committed_date":"1970-01-01T00:00:00Z",
+"commit_lines":0,
+"commit_insertions":0,
+"commit_deletions":0,
+"commit_modified_file_count":0,
+"file_lines":0,
+"file_insertions":0,
+"file_deletions":0,
+"file_path":"",
+"parent_path":"",
+"author__id":0,
+"author__logins":[""],
+"committer__id":0,
+"committer__logins":[""],
+"author_company":"",
+"dir":""
+    }
+  }
+]
