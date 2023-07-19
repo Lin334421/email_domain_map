@@ -58,7 +58,6 @@ yandex-team.ru yandex
 free-electrons.com bootlin
 marvell.com marvell
 mac.com apple
-free.fr  free-sas
 baidu.com baidu
 netapp.com netapp
 qlogic.com qlogic
@@ -77,43 +76,27 @@ mongodb.com mongodb
 neotechnology.com neotechnology
 mediatek.com mediatek
 qca.qualcomm.com qualcomm
-atmel.com microchip-technology
-docker.com
-metafoo.de
-xs4all.nl
-analog.com
-redking.me.uk
-gmx.at
-atheros.com
-webrtc.org
-gitlab.com
-xmission.com
-arangodb.com
-atomide.com
-glider.be
-citrix.com
-tokutek.com
-haxx.se
-linux-m68k.org
-cockroachlabs.com
-openvz.org
-gondor.apana.org.au
-g5.osdl.org
-inktank.com
-osdl.org
-reidspencer.com
-linux-fr.org
-baylibre.com
-collabora.com
-bootlin.com
-tuxdriver.com
-mathias-kettner.de
-sss.pgh.pa.us
-denx.de
-trash.net
-microchip.com
-linbit.com
-dyn-67.arm.linux.org.uk
+atmel.com microchip
+docker.com docker
+metafoo.de metafoo
+analog.com analog
+redking.me.uk redking
+atheros.com qualcomm
+arangodb.com arangodb
+atomide.com atomide
+glider.be glider
+citrix.com citrix
+tokutek.com tokutek
+cockroachlabs.com cockroachlabs
+inktank.com inktank
+baylibre.com baylibre
+collabora.com collabora
+bootlin.com bootlin
+tuxdriver.com tuxdriver
+sss.pgh.pa.us sssd
+denx.de denx
+microchip.com microchip
+linbit.com linbit
 poettering.net
 pobox.com
 sipsolutions.net
