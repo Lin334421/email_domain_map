@@ -14,11 +14,16 @@ woody.linux-foundation.org linux-foundation
 python.org python
 php.net php
 golang.org google
-
-
-
-
-
+acm.org acm
+linuxfoundation.org linux-foundation
+review.opendev.org opendev
+gentoo.org gentoo
+openssl.org openssl
+linux-sh.org superh-linux
+linux-mips.org mips-linux
+arm.linux.org.uk arm-linux
+gcc.gnu.org gnu
+gnu.org gnu
 
 
 
@@ -28,5 +33,14 @@ nondot.org 个人发起的
 davemloft.net 个人发起的
 zeniv.linux.org.uk 个人
 arndb.de
+chris-wilson.co.uk 个人
+perches.com 未知
+10gen.com 未知
+ideasonboard.com 未知
+ffwll.ch
+lixom.net
+kernel.crashing.org
+zuster.org
+users.sourceforge.net sourceforge
 
 
