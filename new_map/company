@@ -18,7 +18,7 @@ microsoft.com microsoft
 nvidia.com nvidia
 canonical.com canonical
 broadcom.com broadcom
-googlemail.com google
+googlemail.com gmail.com
 freescale.com nxp-semiconductors
 mellanox.com mellanox
 linutronix.de linutronix
@@ -175,11 +175,11 @@ trendmicro.com.cn
 kernel.dk
 percona.com
 ravnborg.org
-foxmail.com
+foxmail.com foxmail.com
 netfilter.org
 hazelcast.com
 quicinc.com
-zte.com.cn
+zte.com.cn zte
 primarydata.com
 cumulusnetworks.com
 debian.org
@@ -223,7 +223,7 @@ wanadoo.fr
 freebsd.org
 novell.com
 bp.renesas.com
-protonmail.com
+protonmail.com proton.me
 efcs.ca
 secretlab.ca
 merethis.com
@@ -333,7 +333,7 @@ pivotallabs.com
 lsi.com
 uber.com
 xenotime.net
-databricks.com
+databricks.com databricks
 mail.nih.gov
 squareup.com
 6wind.com
@@ -519,7 +519,7 @@ caiaq.de
 rere.qmqm.pl
 medozas.de
 tu-berlin.de
-ct.jp.nec.com
+ct.jp.nec.com nec
 tedor.me
 perex.cz
 minio.io
@@ -557,7 +557,7 @@ haypocalc.com
 playingwithpointers.com
 mansr.com
 appscale.com
-nyu.edu
+nyu.edu new york university
 firstfloor.org
 ens-lyon.org
 tripeaks.co.jp
@@ -580,7 +580,7 @@ boostpro.com
 valinux.co.jp
 speakeasy.org
 apm.com
-twitter.com
+twitter.com twitter
 pietroalbini.org
 freemail.hu
 bobcopeland.com
@@ -615,7 +615,7 @@ norbit.de
 mitre.org
 candelatech.com
 ozlabs.ru
-daocloud.io
+daocloud.io daocloud
 ssi.bg
 jku.at
 llnl.gov
@@ -714,7 +714,7 @@ sanpeople.com
 multicorewareinc.com
 slack-corp.com
 woody.osdl.org
-andrew.cmu.edu
+andrew.cmu.edu carnegie mellon university
 sbr.pm
 gluster.com
 rwell.org
@@ -764,7 +764,7 @@ dsr-corporation.com
 metaswitch.com
 fr.ibm.com
 wanadoo.es
-zju.edu.cn
+zju.edu.cn zhejiang university
 cloudbasesolutions.com
 walle.cc
 webiny.com
@@ -820,7 +820,7 @@ mandriva.com.br
 intalio.com
 sapo.pt
 ing.com
-ah.jp.nec.com
+ah.jp.nec.com nec
 codeplay.com
 uiowa.edu
 dgraph.io
@@ -831,7 +831,7 @@ cs.msu.su
 aepfle.de
 izs.me
 nats.io
-hotmail.co.uk
+hotmail.co.uk outlook.com
 bjorlykke.org
 sn.scee.net
 poste.it
@@ -880,7 +880,7 @@ jmondi.org
 gelma.net
 cheimes.de
 dilocker.de
-cs.cmu.edu
+cs.cmu.edu carnegie mellon university
 scriptkiddie.org
 jp.panasonic.com
 neterion.com
@@ -1041,7 +1041,7 @@ blam.sh
 cray.com
 dberlin.org
 rwth-aachen.de
-alumni.cmu.edu
+alumni.cmu.edu andrew.cmu.edu
 ga2.so-net.ne.jp
 celeryproject.org
 cs.uni-saarland.de
@@ -1122,7 +1122,7 @@ msully.net
 southpole.se
 superbug.co.uk
 yunshan.net
-lyft.com
+lyft.com lyft
 audioscience.com
 netscape.net
 tw.ibm.com
@@ -1133,7 +1133,7 @@ jmvalin.ca
 varkor.com
 ansible.com
 pensando.io
-live.co.uk
+live.co.uk outlook.com
 Sun.com
 fau.de
 ucsd.edu
@@ -1147,9 +1147,9 @@ hasura.io
 aevum.de
 gavinsharp.com
 opennebula.systems
-jp.ibm.com
+jp.ibm.com ibm
 aj.id.au
-buoyant.io
+buoyant.io buoyant
 northern.tech
 gibb.us
 skippinet.com.au
@@ -1205,7 +1205,7 @@ d779f126-a31b-0410-b53b-1d3aecad763e
 unisoc.com
 emlix.com
 holoscopio.com
-hotmail.de
+hotmail.de outlook.com
 MIT.EDU
 vols.utk.edu
 errs.io
@@ -1219,7 +1219,7 @@ tiscali.co.uk
 liris.cnrs.fr
 endlessos.org
 port70.net
-Gmail.com
+Gmail.com gmail.com
 dropbox.com
 crosbymichael.com
 jlekstrand.net
@@ -1255,7 +1255,7 @@ marek.ca
 fire.lp0.eu
 accenture.com
 sensu.io
-easystack.cn
+easystack.cn easystack
 noorenberghe.ca
 joda.org
 nachtwindheim.de
@@ -1291,10 +1291,10 @@ rsk.demon.co.uk
 mail.berlios.de
 ducksong.com
 kluyver.me.uk
-airbnb.com
+airbnb.com airbnb
 cypress.com
 measurement-factory.com
-outlook.fr
+outlook.fr outlook.com
 iee.fraunhofer.de
 towertech.it
 kontsevoy.com
@@ -1377,7 +1377,8 @@ projectcalico.io
 lca.pw
 hixie.ch
 firemni.cz
-vip.qq.com
+vip.qq.com qq.com
+qq.com qq.com
 codeweavers.com
 cs.umass.edu
 mcgivern.me.uk
@@ -1465,7 +1466,7 @@ shore.net
 amlogic.com
 redkubes.com
 csclub.uwaterloo.ca
-live.cn
+live.cn outlook.com
 danga.com
 voidspace.org.uk
 hedley.net
@@ -1501,7 +1502,7 @@ do-not-panic.com
 kynesim.co.uk
 tomassetti.me
 cirrus.com
-mprc.pku.edu.cn
+mprc.pku.edu.cn peking university
 hevery.com
 grafana.org
 o2.pl
@@ -1563,13 +1564,13 @@ iacm.forth.gr
 dominion.thruhere.net
 weitershausen.de
 openio.io
-datadoghq.com
+datadoghq.com data dog
 sprymix.com
 c-sky.com
 jarohen.me.uk
 containerstore.com
 eqrion.net
-hotmail.fr
+hotmail.fr outlook.com
 mnt.io
 polito.it
 wwwdotorg.org
@@ -1712,7 +1713,7 @@ graetzer.org
 rurik.mysql.com
 albersweb.de
 shopify.com
-pku.edu.cn
+pku.edu.cn peking university
 rk0n.org
 kubrickolo.gy
 parkwaycc.co.uk
@@ -1751,7 +1752,7 @@ somethingdoug.com
 nagios.com
 nichol.ca
 konduit.ai
-ce.jp.nec.com
+ce.jp.nec.com nec
 verismonetworks.com
 badlogicgames.com
 snorp.net
@@ -1844,7 +1845,7 @@ drew.ca
 dsl-only.net
 c0d3.blue
 protonic.nl
-nec.com
+nec.com nec
 meer.net
 dotmesh.com
 uclouvain.be
@@ -1942,12 +1943,12 @@ jonasrauber.de
 jordanzimmerman.com
 phare.normalesup.org
 nextdimension.cc
-huggingface.co
+huggingface.co huggingface
 berlin.de
 bendarnell.com
 dcl.info.waseda.ac.jp
 consensys.net
-vn.fujitsu.com
+vn.fujitsu.com fujitsu
 dibcom.fr
 strn.cat
 yoav.ws
@@ -2005,13 +2006,13 @@ ventanamicro.com
 jasonwilder.com
 live.ca
 linsyssoft.com
-ucloud.cn
+ucloud.cn ucloud
 oh.rr.com
 cs.uu.nl
 kubecost.com
 hoang.co.uk
 twistedmatrix.com
-live.de
+live.de outlook.com
 wavecomp.com
 shrit.me
 alxandria.net
@@ -2133,7 +2134,7 @@ exseed.ed.ac.uk
 246tNt.com
 andrewclark.io
 cl.cam.ac.uk
-ak.jp.nec.com
+ak.jp.nec.com nec
 mickler.org
 certik.cz
 langa.pl
@@ -2192,7 +2193,7 @@ crystalclearsoftware.com
 secdev.org
 ll.mit.edu
 wayfair.com
-cmu.edu
+cmu.edu carnegie mellon university
 ebshome.net
 hellion.org.uk
 eclipso.eu
@@ -2242,7 +2243,7 @@ lynne.ee
 ijw.co.nz
 roscigno.com
 cjr.nz
-ts.fujitsu.com
+ts.fujitsu.com fujitsu
 infoblox.com
 hakman.dev
 rocketmail.com
@@ -2281,7 +2282,7 @@ andymccurdy.com
 dylanmckay.io
 mega-nerd.com
 tls.msk.ru
-protonmail.ch
+protonmail.ch proton.me
 chalmers.se
 olivergierke.de
 sda-se.com
@@ -2340,7 +2341,7 @@ cmdln.org
 pelagicore.com
 zim.(none)
 neteffect.com
-proton.me
+proton.me proton.me
 iitj.ac.in
 xenomai.org
 hrz.tu-chemnitz.de
@@ -2541,7 +2542,7 @@ gmail
 cs.umd.edu
 basilcrow.com
 aquasec.com
-vlsi1.ultra.nyu.edu
+vlsi1.ultra.nyu.edu new york university
 mat.ethz.ch
 russell.cc
 linux.ee
@@ -2703,7 +2704,7 @@ linux360.ro
 atoptool.nl
 grinn-global.com
 hoa-project.net
-rs.jp.nec.com
+rs.jp.nec.com nec
 criteo.com
 ubourg.net
 dakotacarto.com
@@ -2805,7 +2806,7 @@ chinatelecom.cn
 cloud7.com
 yumumu.me
 dixongroup.net
-wx.jp.nec.com
+wx.jp.nec.com nec
 email.arizona.edu
 madwifi.org
 dsn.lapis-semi.com
@@ -2968,7 +2969,7 @@ kkaefer.com
 rohde-schwarz.com
 fomichev.me
 Carter.net
-GMail.com
+GMail.com gmail.com
 mykernel.net
 owners-cleanup-prod.google.com.iam.gserviceaccount.com
 f19166aa-fa4f-0410-85c2-fa1106f25c8a
@@ -3081,7 +3082,7 @@ ffmpeg.org
 campus.tu-berlin.de
 ramayana.hindu.god
 chrishenn.net
-cs.nyu.edu
+cs.nyu.edu new york university
 eisber.net
 chygwyn.com
 substance.io
@@ -3191,7 +3192,7 @@ thijsschreijer.nl
 code-intelligence.com
 haproxy.org
 didiglobal.com
-yandex.com
+yandex.com yandex.com
 kitsonkelly.com
 xkyle.com
 sas.com
@@ -3322,7 +3323,7 @@ ac.auone-net.jp
 gerv.net
 bolka.at
 developersupport.net
-da.jp.nec.com
+da.jp.nec.com nec
 codilime.com
 jfbastien.com
 yesql.se
@@ -3346,7 +3347,7 @@ perfinion.com
 einfochips.com
 renault.com
 loftninjas.org
-ab.jp.nec.com
+ab.jp.nec.com nec
 club.fr
 polyester.se
 palewi.re
@@ -3522,7 +3523,7 @@ mistralsolutions.com
 xoppa.com
 jayway.com
 devinrousso.com
-outlook.it
+outlook.it outlook.com
 scanoss.com
 tycoint.com
 blue-yonder.com
@@ -3567,7 +3568,7 @@ psych0tik.net
 astro.washington.edu
 yakshaving.ninja
 pefoley.com
-oculus.com
+oculus.com oculus
 qo.cx
 dator8
 sileht.net
@@ -3611,7 +3612,7 @@ alcatel-lucent.com
 poseidon.mysql.com
 zary.sk
 gnat.com
-india.nec.com
+india.nec.com nec
 stud.hs-mannheim.de
 verizon.com
 Yahoo.com
@@ -3652,7 +3653,7 @@ argv.me
 absa.africa
 69f7d36a-ea1c-0410-88ea-9fd03e4c9665
 thyrsus.com
-emea.nec.com
+emea.nec.com nec
 fivetechno.de
 pke.hr
 datasphere.ch
@@ -3712,7 +3713,7 @@ mishu.com
 improvement.jp
 ops.dti.ne.jp
 physik.uni-kl.de
-np.css.fujitsu.com
+np.css.fujitsu.com fujitsu
 giraffe.netgate.net
 romeo.(none)
 staltz.com
@@ -3723,7 +3724,7 @@ gnu.space
 appropriatesoftware.net
 dreid.org
 timnn.me
-qiniu.com
+qiniu.com qiniu
 osuosl.org
 anw.at
 skynet.ie
@@ -3749,7 +3750,7 @@ kllective.com
 gopro.com
 ubuntu.(none)
 defuze.org
-sx.jp.nec.com
+sx.jp.nec.com nec
 adventure.(none)
 census-labs.com
 gmail.org
@@ -4034,7 +4035,8 @@ aspect135.co.uk
 rapidrollout.com
 absence.it
 list.alibaba-inc.com
-vip.163.com
+vip.163.com 163.com
+163.com 163.com
 highpoint-tech.com
 svanheule.net
 simonster.com
@@ -4175,7 +4177,7 @@ m-sp.org
 jenkins.sf.pivotal.io
 raumfeld.com
 progmaticlab.com
-cq.jp.nec.com
+cq.jp.nec.com nec
 rbri.de
 obermui.de
 starfivetech.com
@@ -4300,7 +4302,7 @@ mevis.de
 Jacobs-MBP.fios-router.home
 cloudwatt.com
 zago.net
-fast.au.fujitsu.com
+fast.au.fujitsu.com fujitsu
 0pointer.de
 freiheit.com
 inburke.com
@@ -4490,7 +4492,7 @@ kyllikki.org
 griddynamics.com
 ruivo.org
 staldal.nu
-outlook.de
+outlook.de outlook.com
 fred.bitbike.com
 danjou.info
 tneal.org
@@ -4780,7 +4782,7 @@ inkedblade.net
 0x539.de
 e0ne.info
 visionsystems.de
-gmail.com]
+gmail.com gmail.com
 carlsverre.com
 daenzer.net
 korsgaard.com
@@ -4900,6 +4902,6 @@ PrismaPhonic.com
 fractalideas.com fractal ideas
 mi.t.u-tokyo.ac.jp tokyo university
 medium.com medium
-hugginface.co huggingface
 total.com total
 grammarly.com grammarly
+futurewei.com futurewei
